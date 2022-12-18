@@ -1,0 +1,149 @@
+* {
+    background-color: #FAFCFF;
+    padding-left: 10px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.devh1 {
+    color: #0C1E3C;
+    margin-top: 20px;
+    font-size: 35px;
+    margin-bottom: -10px;
+}
+
+a {
+    color: black
+}
+
+.icon {
+    vertical-align:middle;
+    width: 25px;
+}
+
+.logo {
+    margin-top: 20px;
+    vertical-align:middle;
+    width: 170px;
+    margin-right: 60%;
+}
+
+.username {
+    margin-left: 10%;
+}
+
+.profile {
+    width: 40px;
+    vertical-align:middle;
+    margin-right: 2%;
+}
+
+.bluetext {
+    color: #3683FC;
+    font-weight: 500;
+}
+
+.redtext {
+    color: red;
+    font-weight: 500;
+    font-size: 14px;
+    margin-right:150px;
+}
+
+.grp {
+    float: left;
+}
+
+.subtitle {
+    color: #0C1E3C
+}
+
+.viewbtn {
+    background-color: #CDE0FE;
+    color:black;
+    text-align: center;
+    border: hidden;
+    border-radius: 20px;
+    width: 100px;
+    height: 30px;
+}
+
+button:focus.viewbtn {
+    background-color: #3683FC;
+    color:white;
+}
+
+.btn {
+    background-color: #3683FC;
+    color:white;
+    width: 130px;
+    border:hidden;
+    border-radius: 20px;
+    padding: 5px;
+    margin-left: 100px;
+}
+
+.graph {
+    border: none;
+    outline: none;
+    width: 550px;
+    margin-top:-50px;
+}
+
+.bold {
+    font-weight: 500;
+}
+
+sup {
+    font-size: 11px;
+    font-weight: 500;
+    color: #0C1E3C;
+    margin-left: -10px;
+    margin-top: -100px;
+}
+
+.hiddenkey {
+    background-color: #CDE0FE;
+    color: rgb(155, 155, 155);
+    border-radius: 3px;
+    padding: 5px 10px;
+}
+
+.link {
+    text-decoration: none;
+    color:#3683FC;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.eye {
+    background-color: #CDE0FE;
+    width: 15px;
+    vertical-align:middle;
+}
+
+.symbol {
+    width: 16px;
+    vertical-align:middle;
+    margin-top: 7px;
+}
+
+.diagarrow {
+    width: 20px;
+    vertical-align:middle;
+    padding-left: 0px;
+}
+
+.rec {
+    margin-top: -80px;
+    margin-left: 500px;
+    margin-right: 150px;
+    background-color: #CDE0FE;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.blueback {
+    color:#0C1E3C;
+    background-color: #CDE0FE;
+}
+

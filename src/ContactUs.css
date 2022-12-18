@@ -1,0 +1,102 @@
+* {
+    background-color: #FAFCFF;
+    padding-left: 10px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.contacth1 {
+    color: #0C1E3C;
+    margin-top: 20px;
+    font-size: 60px;
+}
+
+input {
+    background-color: #CDE0FE;
+    border-radius: 4px;
+    border: hidden;
+    padding: 5px 10px;
+    width: 30%;
+    height: 20px;
+}
+
+input:invalid {
+    background-color: rgb(255, 225, 222);
+    outline: 2px solid lightcoral;
+}
+
+.phone {
+    width: 22.25%;
+}
+
+textarea {
+    background-color: #CDE0FE;
+    border-radius: 5px;
+    border: hidden;
+    padding: 15px 15px;
+    width: 62%;
+    height: 200px;
+}
+
+select {
+    background-color: #CDE0FE;
+    border: hidden;
+    outline: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    width: 7%;
+}
+
+.lang {
+    background-color: #FAFCFF;
+    outline: none;
+    border: hidden;
+    padding: 5px 10px;
+    width: 5%;
+    font-size: medium;
+    margin-left: 1%;
+}
+
+a {
+    color: black
+}
+
+.icon {
+    vertical-align:middle;
+    width: 25px;
+}
+
+.arrow {
+    vertical-align:middle;
+    width: 25px;
+    margin-right: -5px;
+}
+
+.logo {
+    margin-top: 20px;
+    vertical-align:middle;
+    width: 120px;
+    margin-right: 60%;
+}
+
+.menu {
+    margin-top: 0px;
+    width: 25px;
+    vertical-align:middle;
+    margin-right: 2%;
+}
+
+.bluetext {
+    color: #3683FC;
+    font-weight: 500;
+}
+
+.send {
+    background-color: #3683FC;
+    color:white;
+    text-align: center;
+    border: hidden;
+    border-radius: 20px;
+    width: 10%;
+    height: 25px;
+    margin-left: 55%;
+}
