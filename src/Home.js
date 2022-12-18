@@ -1,10 +1,12 @@
 function Home() {
     return (
         <div>
-            <ul>
-                <li><a href="/contact">Contact Us</a></li>
-                <li><a href="/dev">Developer Portal</a></li>
-            </ul>
+            <h1>Khushaal Kurswani's Test App for Longevity Intime</h1>
+                <ul>
+                    <li><a href="/contact">Contact Us</a></li>
+                    <br/>
+                    <li><a href="/dev">Developer Portal</a></li>
+                </ul>
         </div>
     );
 }

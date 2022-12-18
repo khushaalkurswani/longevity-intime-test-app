@@ -82,6 +82,8 @@ function DevPortal() {
         return (
             <div>
                 <h1 className='devh1'>Models</h1>
+                <p>TBD</p>
+                <p>No Figma frame provided for this screen</p>
             </div>
         );
     }
